@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
-<h3 align="center">I'm a M.Sc. Student of Computer Science and Engineering at Polytechnic University of Milan</h3>
+<h3 align="center">I'm a M.Sc. Student of Computer Science and Engineering at Polytechnic University of Milan 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arstek131&label=Profile%20views&color=0e75b6&style=flat" alt="arstek131" /> </p>
 
