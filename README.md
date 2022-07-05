@@ -3,15 +3,15 @@
 <h3 align="center">My main area of interests are:</h3>
 
 
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/self-driving.png" valign="middle" width="40"></a> Autonomous Driving
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/self-driving.png" valign="middle" width="45"></a> Autonomous Driving
 
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/machine-learning.png" valign="middle" width="40"></a> Machine Learning
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/machine-learning.png" valign="middle" width="45"></a> Machine Learning
 
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/deep-learning.png" valign="middle" width="40"></a> Deep Learning
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/deep-learning.png" valign="middle" width="45"></a> Deep Learning
 
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/vision.png" valign="middle" width="40"></a> Computer Vision
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/vision.png" valign="middle" width="45"></a> Computer Vision
 
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/development.png" valign="middle" width="40"></a> Mobile Development
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/development.png" valign="middle" width="45"></a> Mobile Development
 
 
 <h3 align="left">Connect with me:</h3>
