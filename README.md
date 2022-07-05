@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h3 align="center">I'm a M.Sc. Student of Computer Science and Engineering at Polytechnic University of Milan 🇮🇹</h3>
-<h3 align="center">My main area of interests are Autonomous Driving, Machine and Deep Learning, Computer Vision and Mobile Development</h3>
+<h3 align="center">My main area of interests are:</h3>
+
+<a href="https://www.flaticon.com/free-icons/autonomous-car" title="autonomous car icons">Autonomous car icons created by shmai - Flaticon</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arstek131&label=Profile%20views&color=0e75b6&style=flat" alt="arstek131" /> </p>
 
