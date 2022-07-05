@@ -2,9 +2,17 @@
 <h3 align="center">I'm a M.Sc. Student of Computer Science and Engineering at Polytechnic University of Milan 🇮🇹</h3>
 <h3 align="center">My main area of interests are:</h3>
 
-<a href="https://www.flaticon.com/free-icons/autonomous-car" title="autonomous car icons">Autonomous car icons created by shmai - Flaticon</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arstek131&label=Profile%20views&color=0e75b6&style=flat" alt="arstek131" /> </p>
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/self-driving.png" valign="middle" width="55"></a> Autonomous Driving
+
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/machine-learning.png" valign="middle" width="55"></a> Machine Learning
+
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/deep-learning.png" valign="middle" width="55"></a> Deep Learning
+
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/vision.png" valign="middle" width="55"></a> Computer Vision
+
+<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/development.png" valign="middle" width="55"></a> Mobile Development
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
