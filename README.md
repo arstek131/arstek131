@@ -24,11 +24,11 @@
   <li><a href="https://github.com/arstek131/Expire_App">Epire App: </a>Mobile app using Flutter</li>
 </ul> 
 
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/arslan-ali-1804bbb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-ali-1804bbb1" height="30" width="40" /></a>
 <a href="https://twitter.com/arslanali20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arslanali20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arslan-ali-1804bbb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-ali-1804bbb1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8083156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8083156" height="30" width="40" /></a>
 </p>
 
