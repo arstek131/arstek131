@@ -21,7 +21,7 @@
   <li><a href="https://github.com/arstek131/CVPR-project-USI">CVPR-USI: </a>Studying a billiard table, analyzing its main features using Computer Vision techniques</li>
   <li><a href="https://github.com/arstek131/Thymio-Discovers-USI">Thymio YOLOv5: </a>YOLOv5 implementation using Pytorch on Thymio in simulated environment</li>
   <li><a href="https://github.com/arstek131/an2dl-ali-menta-sorrentino">Deep Learning Challenges: </a>Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering</li>
-  <li><a href="https://github.com/arstek131/Expire_App">Epire App: </a>Mobile app using Flutter</li>
+  <li><a href="https://github.com/arstek131/Expire_App">Expire App: </a>Mobile app using Flutter</li>
 </ul> 
 
 ---
