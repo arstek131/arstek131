@@ -1,6 +1,6 @@
 # Hi, I'm Arslan 👋
 
-I'm a M.Sc. student in Computer Science and Engineering at the Polytechnic University of Milan 🇮🇹
+I'm a graduate in Computer Science and Engineering from the Polytechnic University of Milan 🇮🇹
 
 ## 🌟 My Interests
 
