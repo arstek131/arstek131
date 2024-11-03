@@ -12,10 +12,10 @@ I'm a graduate in Computer Science and Engineering from the Polytechnic Universi
 
 ## 🔧 Main Projects
 
+- [**Semi-Supervised-Labeling-Transformer**](https://github.com/arstek131/Semi-Supervised-Labeling-Transformer):  Vision transformer based approach for semi-supervised image labeling and alignment detection
 - [**CVPR-USI**](https://github.com/arstek131/CVPR-project-USI): Analyzing billiard table features using computer vision techniques
 - [**Thymio YOLOv5**](https://github.com/arstek131/Thymio-Discovers-USI): YOLOv5 implementation with PyTorch on Thymio in a simulated environment
 - [**Deep Learning Challenges**](https://github.com/arstek131/an2dl-ali-menta-sorrentino): Deep learning models for image classification, segmentation, and visual question answering
-- [**Expire App**](https://github.com/arstek131/Expire_App): A mobile app built with Flutter
 
 ## 📬 Connect with me
 
